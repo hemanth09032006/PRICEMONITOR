@@ -21,6 +21,7 @@ The application explicitly enforces global **UTF-8 compliance** during file oper
 
 text
 PriceMonitor/
+
 │
 ├── monitor.py          # Data ingestion simulator & system logger
 ├── analyzer.py         # O(N) log parser & analytics aggregator
